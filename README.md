@@ -1,4 +1,3 @@
-### Olá sou Marcos estudando de Ciência da Computação na UFRJ, amante de Inteligência Artificial.
 <div align="center">
   <a href="https://github.com/MarcosEduard0">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEduard0&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
