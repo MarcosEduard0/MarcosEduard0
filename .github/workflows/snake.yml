@@ -1,26 +1,42 @@
-name: Generate Datas
+﻿name: Atualizar cobrinha de contribuições
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # A cada 12 horas, às 00:00 e 12:00 UTC.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-output
+  cancel-in-progress: false
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    name: Gerar e publicar animação
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Gerar SVGs para os temas claro e escuro
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: MarcosEduard0
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  

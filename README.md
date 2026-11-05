@@ -1,37 +1,41 @@
-### Olá! Me chamo Marcos Eduardo 👋
-<div align="center">
-  <a href="https://github.com/MarcosEduard0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosEduard0&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEduard0&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
-  
-<div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  
-          
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:marcos.eduardo22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-eduardo96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MarcosEduard0/MarcosEduard0/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+﻿# Olá, sou Marcos Eduardo 👋
+
+### Engenharia de Dados | Python · SQL · ETL
+
+Meu foco é Engenharia de Dados: integrar fontes, transformar dados e organizar informações para análise e uso no negócio.
+
+Tenho interesse em oportunidades para desenvolver pipelines, automatizar processos e melhorar a qualidade dos dados.
+
+[LinkedIn](https://www.linkedin.com/in/marcos-eduardo96/) · [E-mail](mailto:marcos.eduardo22@gmail.com)
+
+## Foco de atuação
+
+- **Integração e transformação:** extração de diferentes fontes, limpeza e padronização de dados.
+- **Automação:** rotinas em Python para reduzir tarefas manuais e tornar processos reproduzíveis.
+- **Qualidade de dados:** validação de campos, identificação de duplicidades e conferência de resultados.
+- **Análise com SQL:** consultas e preparação de bases para apoiar decisões.
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Projetos
+
+Você pode explorar meus repositórios públicos [aqui](https://github.com/MarcosEduard0?tab=repositories). Os projetos fixados no perfil ajudam a conhecer meu código e minha forma de organizar soluções.
+
+<!-- Substituir este parágrafo por 2 ou 3 projetos reais: link, problema resolvido,
+     tecnologias e resultado verificável. Usar apenas dados públicos ou sintéticos. -->
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosEduard0/MarcosEduard0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosEduard0/MarcosEduard0/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de uma cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/MarcosEduard0/MarcosEduard0/output/github-contribution-grid-snake.svg" />
+</picture>
