@@ -55,15 +55,6 @@ Na Engenharia de Dados e nos meus projetos:
 
 Meus repositórios refletem interesses e aprendizados de diferentes momentos — de dados e automação a desenvolvimento de aplicações. Fique à vontade para [explorar os projetos](https://github.com/MarcosEduard0?tab=repositories)!
 
-## Estatísticas
-
-<p align="center">
-  <a href="https://github.com/MarcosEduard0">
-    <img height="170" alt="Estatísticas do GitHub de Marcos Eduardo" src="./profile/stats.svg" />
-    <img height="170" alt="Linguagens mais presentes nos repositórios públicos de Marcos Eduardo" src="./profile/top-langs.svg" />
-  </a>
-</p>
-
 ## Contribuições
 
 <picture>
