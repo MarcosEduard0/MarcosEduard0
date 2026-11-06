@@ -59,8 +59,8 @@ Meus repositórios refletem interesses e aprendizados de diferentes momentos —
 
 <p align="center">
   <a href="https://github.com/MarcosEduard0">
-    <img height="170" alt="Estatísticas do GitHub de Marcos Eduardo" src="https://github-readme-stats.vercel.app/api?username=MarcosEduard0&amp;show_icons=true&amp;theme=tokyonight&amp;locale=pt-br" />
-    <img height="170" alt="Linguagens mais presentes nos repositórios públicos de Marcos Eduardo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosEduard0&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;locale=pt-br" />
+    <img height="170" alt="Estatísticas do GitHub de Marcos Eduardo" src="./profile/stats.svg" />
+    <img height="170" alt="Linguagens mais presentes nos repositórios públicos de Marcos Eduardo" src="./profile/top-langs.svg" />
   </a>
 </p>
 
